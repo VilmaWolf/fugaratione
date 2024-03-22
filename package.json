@@ -1,0 +1,46 @@
+{
+  "name": "fugaratione",
+  "version": "1.0.0",
+  "description": "A lightweight ethereum javascript wallet.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VilmaWolf/fugaratione.git"
+  },
+  "keywords": [
+    "ethereum",
+    "assumenda",
+    "transactions",
+    "contracts",
+    "aspernatur"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bignumber.js": "debris/bignumber.js#94d7146671b9719e00a09c29b01a691bc85048c2",
+    "bitcore-lib": "^0.13.19",
+    "bitcore-mnemonic": "^1.0.1",
+    "buffer": "^4.9.0",
+    "crypto-js": "^3.1.5",
+    "elliptic": "^3.1.0",
+    "ethereumjs-tx": "^1.1.1",
+    "ethereumjs-util": "^4.3.1",
+    "rlp": "^2.0.0",
+    "scrypt-async": "^1.2.0",
+    "tweetnacl": "0.13.2",
+    "web3": "^0.15.3"
+  },
+  "devDependencies": {
+    "async": "^1.4.2",
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-react": "^6.11.1",
+    "babelify": "^7.3.0",
+    "bluebird": "^3.3.1",
+    "browserify": "^13.1.0",
+    "chai": "^3.0.0",
+    "hooked-web3-provider": "christianlundkvist/hooked-web3-provider#updates_web3_14",
+    "istanbul": "^0.3.15",
+    "mocha": "^2.2.5",
+    "uglify-js": "^2.7.2"
+  },
+  "author": "RosendoWolff"
+}
